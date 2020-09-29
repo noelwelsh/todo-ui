@@ -1,0 +1,13 @@
+.task-list {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+li {
+    padding: 0;
+}
+
+.strikethrough {
+    text-decoration-line: line-through;
+}
